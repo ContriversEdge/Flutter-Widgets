@@ -243,4 +243,12 @@
         "documentation":"https://docs.flutter.dev/development/ui/widgets/async",
 
     }
+    {
+        "id":33",
+        "name":"RefreshIndicator",
+        "description":"A widget that supports the Material "swipe to refresh" idiom.",
+        "youtube link":"https://www.youtube.com/watch?v=ORApMlzwMdM&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=108",
+        "documentation page":"https://api.flutter.dev/flutter/material/RefreshIndicator-class.html"
+
+    }
 ]
